@@ -1,6 +1,6 @@
 name: Greetings
 
-on: [pull_request_target,push, issues]
+on: [push]
 
 jobs:
   greeting:
